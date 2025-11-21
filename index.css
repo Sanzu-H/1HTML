@@ -1,0 +1,50 @@
+body {
+    font-family: Arial,  sans-serif; /* Семейство шрифтов */
+    font-size: 15px; /* Размер основного шрифта в <p></p>  */
+    background-color: #eaabbf; /* Цвет фона веб-страницы */
+    color: #333333; /* Цвет основного текста */ 
+}
+h1 {
+    text-align: center;
+    color: #5988FF; /* Цвет заголовка */
+    font-size: 24px; /* Размер шрифта в пунктах */
+    font-family: Georgia, serif; /* Семейство шрифтов */
+}
+p {
+    margin-bottom: 15px; 
+    text-align: center;
+}
+.img {
+    border-radius: 20px;
+    margin-left: 400px;
+    margin-right: 300px;
+    max-width: 300px;
+    height: auto;   
+    border-radius: 20px;
+    border: 2px solid white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h2 {
+    color: #ff0000;
+    font-size: 20px; 
+}
+.imgone {
+    border-radius: 20px;
+    margin-left: 400px;
+    margin-right: 300px;
+    max-width: 300px;
+    height: auto;   
+    border: 2px solid white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.ashka {
+    font-size: 20px;
+    text-decoration-color: #D6FF6B;
+    color: #b42940;
+}
